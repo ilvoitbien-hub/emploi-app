@@ -16,7 +16,7 @@ Exécutez ce script bash pour cloner les deux projets et préparer l'environneme
 echo "=== Téléchargement des projets ==="
 
 # Cloner le backend
-git clone https://github.com/<ton-user>/<repo-backend>.git backend-app
+git clone https://github.com/ilvoitbien-hub/emploi-app.git
 
 # Cloner le frontend
 git clone https://github.com/ilvoitbien-hub/mes-offres-app.git
